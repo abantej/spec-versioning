@@ -12,4 +12,4 @@ wmsuitability
 
 wmxothers
 
-- [wmsuitability-spec.yml](wmsuitability/wmsuitability-spec.yml)
+- [wmxothers-spec.yml](wmxothers/wmxothers-spec.yml)
