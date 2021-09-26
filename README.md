@@ -8,8 +8,8 @@ wmportfolio
 
 wmsuitability
 
-- [wmportfolio-spec.yml](wmportfolio/wmportfolio-spec.yml)
+- [wmsuitability-spec.yml](wmsuitability/wmsuitability-spec.yml)
 
 wmxothers
 
-- [wmportfolio-spec.yml](wmportfolio/wmportfolio-spec.yml)
+- [wmsuitability-spec.yml](wmsuitability/wmsuitability-spec.yml)
